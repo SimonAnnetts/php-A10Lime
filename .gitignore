@@ -2,3 +2,5 @@
 *.so
 *_wrap.*
 php_*.h
+*.o
+*.ini

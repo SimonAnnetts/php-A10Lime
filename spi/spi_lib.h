@@ -21,8 +21,8 @@
  * MA 02110-1301, USA.
  */
 
-#ifndef _I2C_LIB_H
-#define _I2C_LIB_H
+#ifndef _SPI_LIB_H
+#define _SPI_LIB_H
 
 #include <stdint.h>
 

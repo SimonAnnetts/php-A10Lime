@@ -1,6 +1,6 @@
-*.php
 *.so
 *_wrap.*
 php_*.h
 *.o
 *.ini
+php-lib/A10Lime.php

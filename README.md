@@ -38,7 +38,7 @@ Look for the A10Lime module in the list and that there are no errors.
 The build script does the following things:
     
 	1) Builds and Installs the native A10Lime libraries
-	3) Creates an interface file for SWIG using the A10Lime header files
-	4) Uses SWIG to create the PHP module source code and include files
-	5) Builds the PHP module source and then installs the shared module library (using sudo)
+	2) Creates an interface file for SWIG using the A10Lime header files
+	3) Uses SWIG to create the PHP module source code and include files
+	4) Builds the PHP module source and then installs the shared module library (using sudo)
 
